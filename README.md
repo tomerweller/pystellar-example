@@ -1,6 +1,6 @@
 # pystellar-example
 
-Simple script that creates two Stellar accounts on testner and submits one payment between them.  
+Simple script that creates two Stellar accounts on testnet and submits a payment between them.  
 
 ``` sh
 > docker build -t stellarpy-example .
